@@ -1,0 +1,6 @@
+# numpy         -> Numerical computations and array operations
+# pandas        -> Data loading, cleaning, and manipulation
+# matplotlib    -> Data visualization (plots, graphs)
+# seaborn       -> Advanced statistical visualizations
+# scikit-learn  -> K-Means clustering algorithm & preprocessing tools
+# vs code       -> Notebook environment for running the code
